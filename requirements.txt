@@ -1,3 +1,5 @@
 jupyter
 pymongo
+motor
 mongoengine
+mongoaudit
